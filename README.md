@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning processes and tools to clean, refine and visualize insights gotten from data
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: LinkedIn @Gbolahan Adebayo
+- 📫 How to reach me: 
+-                     LinkedIn @Gbolahan Adebayo
 -                     Twitter  @fresh_gb
 
 <!---
